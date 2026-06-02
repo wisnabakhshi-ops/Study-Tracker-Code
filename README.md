@@ -1,4 +1,5 @@
 # Study-Tracker-Code
+
 app.background = 'lightblue'
 
 # Title
